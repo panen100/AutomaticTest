@@ -1,1 +1,4 @@
-// 依赖库列表
+# 依赖库列表
+pytest
+allure-pytest
+selenium
