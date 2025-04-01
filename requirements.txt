@@ -1,4 +1,7 @@
 # 依赖库列表
 pytest
 allure-pytest
+pytest-xdist
+pytest-ordering
+pytest-rerunfailures
 selenium
